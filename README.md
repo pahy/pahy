@@ -3,18 +3,14 @@
 **Main Tech Stack Lineup**
 
 Javascript/Typescript · VueJS
-
 (S)CSS · REST/GraphQL
-
 Laravel · Typo3 · Grav CMS
-
 PostgreSQL · MariaDB/MySQL  
 
 
 **Applications I use regularly**
 
 Linux · IntelliJ · Adobe CC
-
 :heart: Open Source
 
 **Techtopics I am interested in**
