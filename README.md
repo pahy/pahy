@@ -1,4 +1,4 @@
-👋 Hi, I’m @pahy
+👋 Hello, I’m @pahy
 
 **Main Tech Stack Lineup**  
 Javascript/Typescript · VueJS
@@ -6,18 +6,22 @@ Javascript/Typescript · VueJS
 Laravel · Typo3 · Grav CMS
 PostgreSQL · MariaDB/MySQL  
 
+
 **Applications I use regularly
+
 
 Linux · IntelliJ · Adobe CC
 
 :heart: Open Source
 
+
 **Tech I am interested in
+
 
 GIT · Agile
 
 
-📫 Reach me via hellopahy@gmail.com
+📨 Reach me via hellopahy@gmail.com
 
 
 <!-- 
