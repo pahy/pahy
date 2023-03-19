@@ -1,6 +1,6 @@
 👋 Hello, I’m @pahy
 
-**Main Tech Stack Lineup**  
+*Main Tech Stack Lineup**  
 Javascript/Typescript · VueJS
 (S)CSS · REST/GraphQL
 Laravel · Typo3 · Grav CMS
