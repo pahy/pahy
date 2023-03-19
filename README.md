@@ -2,10 +2,7 @@
 
 **Main Tech Stack Lineup**
 
-Javascript/Typescript · VueJS
-(S)CSS · REST/GraphQL
-Laravel · Typo3 · Grav CMS
-PostgreSQL · MariaDB/MySQL  
+JS/TS · VueJS · (S)CSS · REST/GraphQL · Laravel · Typo3 · Grav CMS · PostgreSQL · MariaDB
 
 
 **Software I use regularly**
