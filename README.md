@@ -2,17 +2,16 @@
 
 **Main Tech Stack Lineup**
 
-JS/TS · VueJS/Nuxt · (S)CSS · REST/GraphQL · Laravel · Typo3 · PostgreSQL · MariaDB · MongoDB
-
+AI · JS/TS · VueJS/Nuxt · (S)CSS · REST/GraphQL · Laravel · Typo3 · PostgreSQL · MariaDB · MongoDB
 
 **Software I use regularly**
 
-Linux · IntelliJ · Adobe CC
+Linux · IntelliJ · Adobe CC · Affinity
 
 
 **Techtopics I am interested in**
 
-GIT · Agile · AI
+AI · Agile
 
 📨 Reach me via hellopahy@gmail.com
 
